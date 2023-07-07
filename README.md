@@ -1,2 +1,5 @@
-# al
-tester
+# hai....
+ini percobaan pertama saya menyimpan file-file ke github
+disini isinya random yahh, dalam kehidupan sehari-hari saya
+agar bisa produktif ngoding, yang penting niat aja dulu...
+kalo sempurna belum pasti bisa lah, jadi ya maklum
