@@ -1,0 +1,6 @@
+--- step by step belajar coding ---
+- html 
+- sedikit tentang css
+- php 
+  membuat crud sederhana dan auth
+- javascript
