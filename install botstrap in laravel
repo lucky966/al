@@ -1,0 +1,12 @@
+//// tutorial install bootstrap di laravel 
+----pertama buka project yang akan diberi bootstrap
+terus buka terminal dan ketik di bawah ini
+:composer require laravel/ui 
+jika sudah lanjut dengan
+:php artisan laravel/ui bootstrap 
+terus di suruh compaile : npm install && npm run dev
+copy saja perintah dan salesai boleh keduanya langsung
+NB : saran saya satu-satu
+NB : jika terjadi stuck saat di npm run dev sebenarnya sudah berhasil tapi harus buka terminal lagi jika ingin tetap berjalan
+   		--:seperti php artisan ser jika di press C maka tidak akan berjalan
+ganti dengan : npm run build
