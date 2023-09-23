@@ -1,0 +1,8 @@
+hati hati jika muncul eror seperti ini
+No application encryption key has been specified.
+santai solusinya yaitu 
+php artisan key:generate
+terus ada eror sekilas ada vendornya pokonya
+waktu di php artisan tidak bisa dijalankan
+solusinya yaitu
+------:composer install
