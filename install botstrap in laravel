@@ -3,7 +3,7 @@
 terus buka terminal dan ketik di bawah ini
 :composer require laravel/ui 
 jika sudah lanjut dengan
-:php artisan laravel/ui bootstrap 
+:php artisan ui bootstrap 
 terus di suruh compaile : npm install && npm run dev
 copy saja perintah dan salesai boleh keduanya langsung
 NB : saran saya satu-satu
