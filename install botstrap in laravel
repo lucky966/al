@@ -10,3 +10,5 @@ NB : saran saya satu-satu
 NB : jika terjadi stuck saat di npm run dev sebenarnya sudah berhasil tapi harus buka terminal lagi jika ingin tetap berjalan
    		--:seperti php artisan ser jika di press C maka tidak akan berjalan
 ganti dengan : npm run build
+NB: jika terjadi eror seperti dibawah ini kemungkinan bootstrap belum di unduh
+Vite manifest not found at: D:\LARAVEL-10\Perpustakaan\public\build/manifest.json
